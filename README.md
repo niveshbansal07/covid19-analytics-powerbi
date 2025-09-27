@@ -78,4 +78,4 @@ To deliver an **interactive analytics tool** that:
 
 ## 6. Screenshots / Demos
 
-![Dashboard Preview]([https://github.com/yourusername/Covid19-Global-Dashboard/blob/main/covid_dashboard.png](https://github.com/niveshbansal07/covid19-analytics-powerbi/blob/main/covid19%20analytics.png))
+![Dashboard Preview](https://github.com/niveshbansal07/covid19-analytics-powerbi/blob/main/covid19%20analytics.png)
